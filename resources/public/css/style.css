@@ -1,0 +1,24 @@
+/* some style */
+
+body {
+  padding: 20px;
+  margin: 20px;
+}
+
+.table > tbody > tr > td {
+  vertical-align: middle;
+}
+
+.caret-red {
+  border-top: 4px solid red !important;
+}
+
+.dropup > .caret-green {
+  border-bottom: 4px solid green !important;
+}
+
+input#top-n {
+  border: 0;
+  text-decoration: underline;
+  width: 70pt;
+}
